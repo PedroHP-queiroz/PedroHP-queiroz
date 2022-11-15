@@ -6,7 +6,7 @@
 Estudante de desenvolvimente WEB
  
 UI/UX Designer
-</div
+</div>
 
  <div align="center">
  
