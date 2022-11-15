@@ -2,12 +2,6 @@
 
 <br>
 
-<div align="center">
- 
- ###👨‍💻 - 
-
-<div> 
-
  <div align="center">
  
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PedroHP-queiroz&show_icons=true&theme=dark"/>
