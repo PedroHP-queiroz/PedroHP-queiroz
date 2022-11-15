@@ -1,6 +1,12 @@
-<h1>Olá, sou o Pedro! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1>Olá, sou o Pedro Queiroz! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <br>
+
+<div>
+Estudante de desenvolvimente WEB
+ 
+UI/UX Designer
+</div
 
  <div align="center">
  
