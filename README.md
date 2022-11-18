@@ -3,10 +3,13 @@
 <br>
 
 <div>
-Estudante de desenvolvimente web
-
-UI/UX Designer
+Estudante de desenvolvimente web full stack,
+<br>
+UI/UX Designer, <br>
+Adobe Ps Ai Certified, <br>
+Figma enthusiast 👀.
 </div>
+<br>
 <p>🛠 &nbsp;Tecnoloigias que domino:</p>
 <div>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="35" height="35"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="40" height="33"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vs-code" width="35" height="35"/>
