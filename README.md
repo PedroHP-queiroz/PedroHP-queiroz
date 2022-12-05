@@ -1,7 +1,13 @@
 <h1>Olá, sou o Pedro Queiroz! A.k.a: P.H.P <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <br>
-
+<div align="center">
+ 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PedroHP-queiroz&show_icons=true&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHP-queiroz&theme=dark"/>
+  <br>
+</div>
+<br>
 <div>
 Estudante de desenvolvimente web full stack,
 <br>
