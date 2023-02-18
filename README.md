@@ -9,7 +9,7 @@
 </div>
 <br>
 <div>
-Estudante de desenvolvimente web full stack,
+Estudante de desenvolvimento web full stack,
 <br>
 UI/UX Designer, <br>
 Adobe Ps & Ai Certified, <br>
